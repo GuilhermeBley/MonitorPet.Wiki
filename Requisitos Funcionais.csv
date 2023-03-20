@@ -1,0 +1,20 @@
+﻿Código,Nome,Descrição,"Prioridade (Alta, Média, Baixa)","Categoria (Solicitação, Processo)"
+RF01,Fazer Login,Este requisito deve permitir ao usuário realizar Login,Alta,Solicitação
+RF02,Criar usuário com Dosador,Usuário só deve ser criado caso tenha um código de alimentador válido.,Alta,Solicitação
+RF03,Fazer Logout,Este requisito deve permitir ao usuário realizar Logout,Alta,Solicitação
+RF04,Recuperar Senha,Este requisito permite ao usuário realizar a recuperação de senha em caso de esquecimento/perda da senha,Média,Solicitação
+RF05,Confirmar e-mail,Usuário deve confirmar e-mail após a criação da conta.,Média,Solicitação
+RF06,Gerenciar Pet,"Este requisito permite ao usuário incluir, alterar, excluir e consultar o(s) Pet(s).",Baixa,Solicitação
+RF07,Gerenciar equipamentos,"Este requisito permite ao usuário incluir, alterar, excluir e consultar o(s) equipamento(s) vinculado(s).",Alta,Solicitação
+RF08,Gerar Relatório de Alimentação,Este requisito permite a geração de relatório(s) da frequência de alimentação do(s) Pet(s).,Alta,Solicitação
+RF09,Consultar Frequência de Alimentação,Este requisito permite ao usuário consultar o histórico de alimentação de qualquer pet cadastrado,Alta,Solicitação
+RF10,Mostrar Gráfico Alimentação,Este requisito permite demonstrar um gráfico do histórico de alimentação,Média,Solicitação
+RF11,Liberar Alimentação,Este requisito permite acionar a liberação de alimento,Alta,Solicitação
+RF12,Agendar alimentação,Este requisito permite ao usuário agendar a liberação de alimento,Alta,Processo
+RF13,Gerenciar Usuário,"Este requisito permite a consulta, alteração e exclusão de usuários.",Alta,Solicitação
+RF14,Gerenciar veterinário,Este requisito permite o cadastro de um veterinario para o(s) Pet(s).,Baixa,Solicitação
+RF15,Notificar veterinário,Este requisito deve notificar o veterinário e enviar um relatório caso haja alterações na alimentação do animal,Baixa,Processo
+RF16,Gerenciar notificações,Este requisito permite ao usuário definir qual(is) as notificações automáticas encaminhadas pelo sistema.,Baixa,Processo
+RF17,Informar novo dispositivo,Este requisito deve informar que foi feito login em um novo despositivo não reconhecido,Baixa,Processo
+RF18,Enviar dados equipamento,Este requisito deve realizar o envio em tempo real das informações do dosador ao banco de dados.,Alta,Processo
+RF19,Notificar usuário,"Este requisito deve notificar o usuário o estado da ração, do animal e dosador",Média,Processo
