@@ -1,4 +1,5 @@
-﻿Código;Nome;Descrição;Prioridade (Alta, Média, Baixa);Categoria (Solicitação, Processo)
+sep=;
+Código;Nome;Descrição;Prioridade (Alta, Média, Baixa);Categoria (Solicitação, Processo)
 RF01;Fazer Login;Este requisito deve permitir ao usuário realizar Login;Alta;Solicitação
 RF02;Criar usuário com Dosador;Usuário só deve ser criado caso tenha um código de alimentador válido.;Alta;Solicitação
 RF03;Fazer Logout;Este requisito deve permitir ao usuário realizar Logout;Alta;Solicitação
