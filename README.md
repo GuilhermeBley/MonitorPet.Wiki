@@ -7,3 +7,8 @@ Alimentador automático para pets, tendo um visualizador web das informações e
 - Cada alimentador é para um animal
 - Suporte para cães e gatos
 - Aceita somente ração
+
+## Plataformas
+
+- Web (Blazor wasm)
+- Mobile (Blazor pwa)
