@@ -8,3 +8,4 @@ RNF06,Eficiência,O sistema irá armazenar imagens em Banco de Dados não relaci
 RNF07,Desenvolvimento,O sistema deverá ser desenvolvido visando uma API RESTful.
 RNF08,Dependabilidade,O sistema será acessível todos os dias da semana 24 horas por dia.
 RNF09,Dependabilidade,A indisponibilidade do sistema terá aviso prévio de 5 dias uteis (Sexta-Sábado) caso haja necessidade.
+RNF10,Interoperabilidade,O sistema deve se conectar com Azure Blob.
