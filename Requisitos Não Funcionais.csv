@@ -9,3 +9,5 @@ RNF07,Desenvolvimento,O sistema deverá ser desenvolvido visando uma API RESTful
 RNF08,Dependabilidade,O sistema será acessível todos os dias da semana 24 horas por dia.
 RNF09,Dependabilidade,A indisponibilidade do sistema terá aviso prévio de 5 dias uteis (Sexta-Sábado) caso haja necessidade.
 RNF10,Interoperabilidade,O sistema deve se conectar com Azure Blob.
+RNF11,Implementação,O sistema web será desenvolvido em ASP NET, utilizando a linguagem C#.
+RNF12,Implementação,O dosador será desenvolvido na linguagem Phyton.
