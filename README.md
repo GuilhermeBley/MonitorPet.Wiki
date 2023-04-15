@@ -5,7 +5,7 @@ Alimentador automático para pets, tendo um visualizador web das informações e
 ## Escopo
 - Cada alimentador é para um animal
 - Suporte para cães e gatos
-- Aceita somente ração
+- Aceita somente ração (não suporta líquidos)
 - Dosador físico em phyton com ESP32
 
 ## Plataformas
