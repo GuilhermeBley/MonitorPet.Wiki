@@ -12,3 +12,4 @@ Alimentador automático para pets, tendo um visualizador web das informações e
 - Web (Blazor wasm)
 - Mobile (Blazor pwa)
 - ASP NET CORE Api (Rest)
+- Banco de dados MySql e Azure Blob
