@@ -7,6 +7,7 @@ Alimentador automático para pets, tendo um visualizador web das informações e
 - Suporte para cães e gatos
 - Aceita somente ração (não suporta líquidos)
 - Dosador físico em phyton com ESP32
+- Um dosador pode ser gerenciado por diversos usuários e um usuário pode ter um ou mais dosadores.
 
 ## Plataformas
 - Web (Blazor wasm)
